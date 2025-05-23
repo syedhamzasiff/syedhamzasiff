@@ -2,8 +2,6 @@
 
 Passionate about building scalable data pipelines and reliable applications.
 
----
-
 ## 🛠️ Tech Stack
 
 ### Data Engineering
@@ -21,10 +19,8 @@ Passionate about building scalable data pipelines and reliable applications.
 - **Databases:** PostgreSQL, MongoDB, SQL Server  
 - **DevOps & Tools:** Git, Docker, Postman, Vercel  
 
----
-
 ## 📫 Contact
-- **Email:** syedhamzasiff@gmail.com :contentReference[oaicite:0]{index=0}  
-- **LinkedIn:** [linkedin.com/in/syedhamzasiff](https://www.linkedin.com/in/syedhamzasiff/) :contentReference[oaicite:1]{index=1}  
+- **Email:** syedhamzasiff@gmail.com  
+- **LinkedIn:** [linkedin.com/in/syedhamzasiff](https://www.linkedin.com/in/syedhamzasiff/)  
 
 _Let’s connect and build something great!_  
