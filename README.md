@@ -1,19 +1,30 @@
-### Hi there 👋
+# Hi there 👋
 
+Passionate about building scalable data pipelines and reliable applications.
 
-- 🔭 I’m currently pursuing Bachelor of Science (Computer Science)
-- 🌱 I’m currently learning Next.js
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedhamzasiff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+### Data Engineering
+- **Languages:** Python, SQL, Java  
+- **Processing & Orchestration:** Airflow, PySpark, Pandas  
+- **Cloud & Storage:**  
+  - AWS: S3, Glue, Lambda, Redshift  
+  - Azure: Data Factory, Databricks, Synapse Analytics, ADLS Gen2  
+  - GCP: BigQuery  
+- **Data Warehousing & Modeling:** Snowflake, Redshift Serverless, Dimensional Modeling, Medallion/Lakehouse Architecture  
 
+### Software Engineering
+- **Languages:** TypeScript, JavaScript, Python, Java 
+- **Frameworks & Libraries:** Node.js, Express.js, Next.js, React
+- **Databases:** PostgreSQL, MongoDB, SQL Server  
+- **DevOps & Tools:** Git, Docker, Postman, Vercel  
 
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedhamzasiff&color=grey&style=flat" height="25"/>
-</div>
+## 📫 Contact
+- **Email:** syedhamzasiff@gmail.com :contentReference[oaicite:0]{index=0}  
+- **LinkedIn:** [linkedin.com/in/syedhamzasiff](https://www.linkedin.com/in/syedhamzasiff/) :contentReference[oaicite:1]{index=1}  
+
+_Let’s connect and build something great!_  
